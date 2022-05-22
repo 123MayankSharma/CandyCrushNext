@@ -1,0 +1,18 @@
+
+
+.app{
+  display:flex;
+  padding: 30px; 
+}
+
+.game{
+  width:50vh;
+  height:50vh;
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.game>img{
+  width:6.25vh;
+  height:6.25vh;
+}
